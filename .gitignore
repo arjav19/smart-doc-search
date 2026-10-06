@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.converge
+htmlcov/
+.env
+.env.example
+.streamlit/secrets.toml
+chroma_db/
+.DS_Store
